@@ -1,0 +1,56 @@
+body {
+  background: #fff;
+}
+
+.section-content-title {
+  margin-top: 10%;
+}
+
+.section-content-title h2 {
+  font-size: 28px;
+  font-weight: 400 !important;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+input {
+  height: 50px;
+}
+
+.btn-primary {
+  height: 50px;
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.btn-daftar {
+  background-color: #42b72a;
+  font-weight: 500 !important;
+}
+.btn-daftar:hover {
+  background-color: #3bad25;
+  font-weight: 500;
+}
+
+.forgoted {
+  text-decoration: none;
+}
+.forgoted:hover {
+  text-decoration: underline;
+}
+
+.decription {
+  font-size: 14px;
+}
+.desc {
+  color: black;
+  text-decoration: none;
+}
+.desc:hover {
+  color: black;
+  text-decoration: underline;
+}
